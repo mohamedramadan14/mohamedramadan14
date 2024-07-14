@@ -14,3 +14,7 @@ Connect with me
 <p align="center"> <a href="https://www.linkedin.com/in/mohamed-ramadan-b28696286" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://discordapp.com/users/mo_shata_14" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /> </a> </p></div>
 <!-- This line embeds an animated SVG image of a snake, which visually represents my GitHub contributions or activity. The image is centered for better presentation. 
 <div align="center"> <img src="https://raw.githubusercontent.com/mohamedramadan14/mohamedramadan14/output/snake.svg" alt="Snake animation" />-->
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedramadan14" alt="GitHub Streak Stats" />
+</div>
